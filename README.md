@@ -54,5 +54,5 @@
 
 &emsp;&emsp;Learn't about AI feature and Data Analytics.
 
-## What's next for Dr.Bot.
+## What's next for AEYEBOT.
 Need to explore more about Twilio and integration with other platforms like cloud service Azure, Aws.
